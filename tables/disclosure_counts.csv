@@ -1,0 +1,9 @@
+disclosure_type,cohort,count,from_n_users,notes
+Structured Q&A answers (targeted questions),Cohort 2,57,19,Mean 3.0 answers per engaging user
+Structured Q&A answers (POV questions),Cohort 1,35,10,Mean 3.5 answers per engaging user
+Conversation-extracted knowledge nodes,Cohort 2,120,29,Needs/offers/goal corrections/context; 53 in Cohort 1
+Voluntary shares (>5-word non-answer),Cohort 2,153,22,Mean 7.0 per sharing user
+Goal corrections (needs<->offers direction),Cohort 2,15,10,Subset of voluntary shares
+Detailed business-context disclosures,Cohort 2,20,8,Subset of voluntary shares
+Specific target-persona specifications,Cohort 2,12,7,Subset of voluntary shares
+Product/UX feedback,Cohort 2,10,6,Subset of voluntary shares

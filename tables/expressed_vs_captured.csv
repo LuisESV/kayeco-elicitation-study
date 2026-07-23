@@ -1,0 +1,4 @@
+channel,expressed,captured_as_structured_signal,capture_rate_pct,notes
+Answered questions (targeted questions),57,57,100,Directly structured by design
+Volunteered unprompted (>5-word non-answer shares),153,23,15,Conservative extraction pipeline
+Total preference-bearing disclosures,210,80,38,Sum of the two channels above

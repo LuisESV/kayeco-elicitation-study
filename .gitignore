@@ -1,0 +1,19 @@
+# This repo is anonymized aggregates + research note only.
+# Never commit anything that could identify a participant:
+*people*.csv
+*profiles*.json
+*enriched*.json
+*transcript*
+*contacts*.csv
+*.vcf
+# name<->pseudonym keys must never live here:
+*anon*map*
+*pseudonym*key*
+*reidentif*
+
+# Python / env
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/

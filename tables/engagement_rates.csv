@@ -1,0 +1,11 @@
+measure,cohort,numerator,denominator,rate_pct,notes
+Users who sent >=1 message,Cohort 1,15,16,94,Any inbound SMS
+Users who sent >=1 message,Cohort 2,28,29,97,Any inbound SMS
+Users who engaged the question phase,Cohort 2,22,29,76,Answered targeted questions phase
+Users who volunteered info beyond answering questions,Cohort 2,22,29,76,>5-word non-answer shares
+Users with >=1 burst session,Cohort 2,23,29,79,2+ messages within 30 minutes
+Cohort 1 users who voluntarily re-enrolled in Cohort 2,Cohort 1->2,13,16,81,Voluntary re-enrollment (carryover)
+Onboarding completed organically,Cohort 1,10,16,63,User confirmed goals without force-advance
+Onboarding completed organically,Cohort 2,25,29,86,User confirmed goals without force-advance
+Feedback rate (system-captured),Cohort 1,2,12,17,Of matched users
+Feedback rate (system-captured),Cohort 2,12,29,41,Of active users
